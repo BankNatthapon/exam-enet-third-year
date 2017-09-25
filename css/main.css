@@ -1,0 +1,48 @@
+body {
+	background-color: #fff;
+}
+
+header {
+	background-color: DeepSkyBlue;
+	text-align: center;
+}
+
+header #introduce {
+	margin-top: 5px;
+	color: white;
+}
+
+header #profile {
+	padding: 5px 5px 5px 5px;
+	width: 130px;
+	height: 130px;
+}
+
+article {
+	margin-top: 20px;
+	padding: 20px 20px 20px 20px;
+	background-color: SaddleBrown;
+}
+
+article p {
+	color:#fff; 
+	margin-top: -10px; 
+	margin-left: 60px;
+}
+
+ul {
+	margin-top: 5px;
+	color: #fff;
+}
+
+footer {
+	text-align: center;
+	margin-top: 28px;
+	background-color: #000;
+}
+
+footer p {
+	margin-top: -10px;
+	color: blue;
+}
+
